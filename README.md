@@ -127,4 +127,3 @@ These reflect typical commands used while structuring and committing the materia
 Tip: Use `git lg` (alias above) to keep an always-useful, compact view of your history.
 
 
-
